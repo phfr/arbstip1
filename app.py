@@ -1,7 +1,6 @@
 import json
 import plotly.graph_objects as go
-from dash import Dash, dcc, html
-from dash.dependencies import Input, Output
+from dash import Dash, dcc, html, Input, Output, callback, clientside_callback, ClientsideFunction, page_container
 
 # Load the JSON data from "d.json"
 with open("d.json", "r") as json_file:
@@ -10,6 +9,7 @@ with open("d.json", "r") as json_file:
 # Initialize lists to store the nodes and links for the Sankey diagram
 nodes = []
 links = []
+
 
 # Create a dictionary to map proposal and choice to a unique target index
 target_index_map = {}
@@ -89,6 +89,7 @@ sankey_fig = go.Figure(go.Sankey(
 ))
 
 app = Dash(__name__)
+server = app.server
 
 # Create a list of unique proposals from the 'nodes' list
 proposals  = list(unique_titles)
