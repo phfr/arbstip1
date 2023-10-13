@@ -154,5 +154,5 @@ def update_sankey(choice_filter, proposal_filter, voter_filter):
     return filtered_fig
 
 if __name__ == '__main__':
-    app.run()
+    app.run_server()
 
