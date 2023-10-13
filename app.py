@@ -1,7 +1,6 @@
 import json
 import plotly.graph_objects as go
-import dash
-from dash import dcc, html
+from dash import Dash, dcc, html
 from dash.dependencies import Input, Output
 
 # Load the JSON data from "d.json"
@@ -89,7 +88,7 @@ sankey_fig = go.Figure(go.Sankey(
     )
 ))
 
-app = dash.Dash(__name__)
+app = Dash(__name__)
 
 # Create a list of unique proposals from the 'nodes' list
 proposals  = list(unique_titles)
@@ -154,5 +153,5 @@ def update_sankey(choice_filter, proposal_filter, voter_filter):
     return filtered_fig
 
 if __name__ == '__main__':
-    app.run_server()
+    app.run()
 
