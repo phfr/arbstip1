@@ -98,7 +98,7 @@ voterz  = list(unique_voters)
 
 # Define the layout of the web application
 app.layout = html.Div([
-    dcc.Graph(id='sankey', figure=sankey_fig, style={'width': '100vw', 'height': '80vh'}),
+    dcc.Graph(id='sankey', figure=sankey_fig, style={'width': '100vw', 'height': '90vh'}),
     dcc.Checklist(
         id='choice-filter',
         options=[
@@ -113,14 +113,20 @@ app.layout = html.Div([
         id='proposal-filter',
         options=[{'label': proposal, 'value': proposal} for proposal in proposals],
         multi=True, 
-#        style={'display': 'inline-block'}
+        style={'display': 'inline-block', 'width': '40vw', 'padding': '4px'}
     ),
     dcc.Dropdown(
         id='voter-filter',
         options=[{'label': voter, 'value': voter} for voter in voterz],
         multi=True,
-#        style={'display': 'inline-block'}
-    )
+        style={'display': 'inline-block', 'width': '40vw', 'padding': '4px'}
+    ),html.Div([
+        html.A(
+            "@kwiz4g",
+            href="https://twitter.com/kwiz4g",
+            target="_blank"
+        )
+    ], style={'text-align': 'center', 'display': 'inline-block', 'margin-top': '-15px'})
 ])
 
 # Define callback to update Sankey diagram based on choice and proposal filters
