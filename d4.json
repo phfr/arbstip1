@@ -1,0 +1,7046 @@
+{
+  "data": {
+    "votes": [
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835139201,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835144373,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835144373,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377532.895987178,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835144373,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377232.895987178,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835139201,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835139201,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Yield"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835139201,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835139201,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835144373,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377251.569576092,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377251.569576092,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377251.569576092,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4376501.569576092,
+        "proposal": {
+          "id": "na"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835139201,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377251.569576092,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835139201,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377251.569576092,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xE48C655276C23F1534AE2a87A2bf8A8A6585Df70",
+        "vp": 8795133.565645503,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377189.75148562,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578268.016998596,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774768.625733765,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774901.309124552,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774808.640733764,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774825.478857297,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774762.113074178,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774763.64867816,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774766.781634804,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774932.622016618,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14773732.872016618,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377251.569576092,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14773732.872016618,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x8F73bE66CA8c79382f72139be03746343Bf5Faa0",
+        "vp": 6915742.858065973,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "na"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x8F73bE66CA8c79382f72139be03746343Bf5Faa0",
+        "vp": 6915742.858065973,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x8F73bE66CA8c79382f72139be03746343Bf5Faa0",
+        "vp": 6915742.858065973,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x2ef27b114917dD53f8633440A7C0328fef132e2F",
+        "vp": 14184009.071425552,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Yield"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x8F73bE66CA8c79382f72139be03746343Bf5Faa0",
+        "vp": 6915742.858065973,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x8F73bE66CA8c79382f72139be03746343Bf5Faa0",
+        "vp": 6915742.858065973,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x8F73bE66CA8c79382f72139be03746343Bf5Faa0",
+        "vp": 6915742.858065973,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x8F73bE66CA8c79382f72139be03746343Bf5Faa0",
+        "vp": 6915742.858065973,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x8F73bE66CA8c79382f72139be03746343Bf5Faa0",
+        "vp": 6915742.858065973,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xE48C655276C23F1534AE2a87A2bf8A8A6585Df70",
+        "vp": 8795133.565645503,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18652737.894341245,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Data Analytics"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.463640757,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "RWA"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Liquid Staking"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Liquid Staking"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Data Analytics"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Liquid Staking"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.81364076,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656796.59363198,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "Yield"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10398986.751641905,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10398986.751641905,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18657432.894341245,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656796.59363198,
+        "proposal": {
+          "id": "Data Analytics"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Liquid Staking"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.81364076,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656810.258889668,
+        "proposal": {
+          "id": "RWA"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18652737.894341245,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Liquid Staking"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656796.59363198,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.81364076,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656796.59363198,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.463640757,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.463640757,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656857.022689667,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.463640757,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.81364076,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18652737.894341245,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "RWA"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.463640757,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "RWA"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18652737.894341245,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.463640757,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.81364076,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Data Analytics"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656857.022689667,
+        "proposal": {
+          "id": "Liquid Staking"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18658480.593631946,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18657432.894341245,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18658480.593631946,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.81364076,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18657432.894341245,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x8F73bE66CA8c79382f72139be03746343Bf5Faa0",
+        "vp": 6915742.858065973,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.463640757,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18658480.593631946,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18657432.894341245,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656796.59363198,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656857.022689667,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18658480.593631946,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18652737.894341245,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656796.59363198,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18658480.593631946,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18657432.894341245,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18657432.894341245,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18652737.894341245,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18658480.593631946,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656796.59363198,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656857.022689667,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "na"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Liquid Staking"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x8F73bE66CA8c79382f72139be03746343Bf5Faa0",
+        "vp": 6915742.858065973,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xE48C655276C23F1534AE2a87A2bf8A8A6585Df70",
+        "vp": 8795133.565645503,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xE48C655276C23F1534AE2a87A2bf8A8A6585Df70",
+        "vp": 8795133.565645503,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578268.016998596,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.81364076,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.81364076,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.463640757,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.463640757,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.81364076,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.81364076,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.463640757,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.81364076,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.463640757,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774932.472016618,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774932.472016618,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774932.472016618,
+        "proposal": {
+          "id": "Yield"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14773696.023034904,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14773692.712016618,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14773692.862016616,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14773693.924027259,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774761.988074178,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774769.376733765,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774769.501733765,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774768.625733765,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774808.640733764,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774901.309124552,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774902.526510928,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774902.526510928,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775479.068376668,
+        "proposal": {
+          "id": "na"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775437.446659544,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775467.696659544,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775467.571659544,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775467.696659544,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775467.796659544,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775478.79337667,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775467.921659544,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775470.878816387,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775471.398428554,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775466.748428553,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775470.878816387,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656796.59363198,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775470.603816386,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775470.878816387,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656796.59363198,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775470.878816387,
+        "proposal": {
+          "id": "RWA"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775471.398428554,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656796.59363198,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18658480.593631946,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775466.398428554,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18658480.593631946,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775466.748428553,
+        "proposal": {
+          "id": "Liquid Staking"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656796.59363198,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775466.873428553,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775466.873428553,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775318.471936606,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775268.821936607,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775380.364602746,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775269.196936607,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656796.59363198,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775471.248428553,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774825.343438705,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775470.394210082,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775273.12244679,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774769.064536948,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18652737.894341245,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18658480.593631946,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18657432.894341245,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656796.59363198,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18658480.593631946,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18658480.593631946,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18657432.894341245,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18657432.894341245,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656857.022689667,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18652737.894341245,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656796.59363198,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656857.022689667,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18658480.593631946,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656857.022689667,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18658480.593631946,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18658480.593631946,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18658480.593631946,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18658480.593631946,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18652737.894341245,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18658480.593631946,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656796.59363198,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18657432.894341245,
+        "proposal": {
+          "id": "Liquid Staking"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656796.59363198,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18652737.894341245,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862396.379800232,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18657432.894341245,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18658480.593631946,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18658480.593631946,
+        "proposal": {
+          "id": "na"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656796.59363198,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18652737.894341245,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18657432.894341245,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "Yield"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18657432.894341245,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18658480.593631946,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18656793.650347963,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18658480.593631946,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD",
+        "vp": 18658480.593631946,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377251.569576092,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377251.569576092,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835139201,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835139201,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775467.796659544,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775442.519210082,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775466.623428553,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775315.502048818,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775470.119210081,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775270.398398317,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774769.501733765,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775466.398428554,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774766.908160426,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775467.796659544,
+        "proposal": {
+          "id": "Data Analytics"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775469.869210081,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774932.622016618,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775466.748428553,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775268.696936607,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775467.571659544,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775479.068376668,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775466.398428554,
+        "proposal": {
+          "id": "Liquid Staking"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377251.569576092,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xE48C655276C23F1534AE2a87A2bf8A8A6585Df70",
+        "vp": 8795133.565645503,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835139201,
+        "proposal": {
+          "id": "Liquid Staking"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xE48C655276C23F1534AE2a87A2bf8A8A6585Df70",
+        "vp": 8795133.565645503,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835139201,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Data Analytics"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "RWA"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862396.379800232,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862396.379800232,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775318.471936606,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "na"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862396.379800232,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862396.379800232,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Liquid Staking"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2ef27b114917dD53f8633440A7C0328fef132e2F",
+        "vp": 14184009.071425552,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2ef27b114917dD53f8633440A7C0328fef132e2F",
+        "vp": 14184009.071425552,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2ef27b114917dD53f8633440A7C0328fef132e2F",
+        "vp": 14184009.071425552,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2ef27b114917dD53f8633440A7C0328fef132e2F",
+        "vp": 14184009.071425552,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835139201,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377251.569576092,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "na"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Liquid Staking"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 3
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775479.16837667,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774825.493438706,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775469.869210081,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14773694.961033354,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774825.343438705,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774764.048678158,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775466.623428553,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14773732.772016617,
+        "proposal": {
+          "id": "Yield"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775470.878816387,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14773732.872016618,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774766.906634804,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774902.776510928,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906310.900496287,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862396.379800232,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xb5B069370Ef24BC67F114e185D185063CE3479f8",
+        "vp": 6578379.284664736,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775478.643376669,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2ef27b114917dD53f8633440A7C0328fef132e2F",
+        "vp": 14184009.071425552,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2ef27b114917dD53f8633440A7C0328fef132e2F",
+        "vp": 14184009.071425552,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2ef27b114917dD53f8633440A7C0328fef132e2F",
+        "vp": 14184009.071425552,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2ef27b114917dD53f8633440A7C0328fef132e2F",
+        "vp": 14184009.071425552,
+        "proposal": {
+          "id": "Yield"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "na"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Yield"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Gambling"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Yield"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.463640757,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.463640757,
+        "proposal": {
+          "id": "Yield"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775467.571659544,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775317.871936606,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775470.603816386,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835139201,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4376501.569576092,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4376851.569576092,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4376501.569576092,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "na"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835139201,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377251.569576092,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835139201,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377232.895987178,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10398986.751641905,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Yield"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10398986.751641905,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10455642.816263448,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906310.900496287,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906310.900496287,
+        "proposal": {
+          "id": "Yield"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906310.900496287,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7913445.87302285,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7913445.87302285,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2e3BEf6830Ae84bb4225D318F9f61B6b88C147bF",
+        "vp": 7906311.025496287,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x190473B3071946df65306989972706A4c006A561",
+        "vp": 10362976.56759557,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Yield"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x18BF1a97744539a348304E9d266aAc7d446a1582",
+        "vp": 4298169.2203263305,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2ef27b114917dD53f8633440A7C0328fef132e2F",
+        "vp": 14184009.071425552,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2ef27b114917dD53f8633440A7C0328fef132e2F",
+        "vp": 14184009.071425552,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2ef27b114917dD53f8633440A7C0328fef132e2F",
+        "vp": 14184009.071425552,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2ef27b114917dD53f8633440A7C0328fef132e2F",
+        "vp": 14184009.071425552,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2ef27b114917dD53f8633440A7C0328fef132e2F",
+        "vp": 14184009.071425552,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2ef27b114917dD53f8633440A7C0328fef132e2F",
+        "vp": 14184009.071425552,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14773732.872016618,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775467.796659544,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775269.096936606,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862396.379800232,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862396.379800232,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "Yield"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862396.379800232,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2ef27b114917dD53f8633440A7C0328fef132e2F",
+        "vp": 14184009.071425552,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2ef27b114917dD53f8633440A7C0328fef132e2F",
+        "vp": 14184009.071425552,
+        "proposal": {
+          "id": "Yield"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2ef27b114917dD53f8633440A7C0328fef132e2F",
+        "vp": 14184009.071425552,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2ef27b114917dD53f8633440A7C0328fef132e2F",
+        "vp": 14184009.071425552,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2ef27b114917dD53f8633440A7C0328fef132e2F",
+        "vp": 14184009.071425552,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "vp": 12210222.76340827,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4376501.569576092,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377251.569576092,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377251.569576092,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775480.321659544,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774825.643438706,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775472.062759615,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377189.75148562,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775466.748428553,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835139201,
+        "proposal": {
+          "id": "NFTs  Gaming"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14774902.526510928,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF4B0556B9B6F53E00A1FDD2b0478Ce841991D8fA",
+        "vp": 14775470.119210081,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862396.379800232,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862396.379800232,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "Yield"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.463640757,
+        "proposal": {
+          "id": "Yield"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576",
+        "vp": 27555114.588640757,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "na"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 2
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x9808E45C613eBA00bA18fB3D314dC4d4712c4A85",
+        "vp": 5333515.925542486,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "Yield"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "Yield"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "Liquid Staking"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xA5dF0cf3F95C6cd97d998b9D990a86864095d9b0",
+        "vp": 8255612.091513353,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862396.379800232,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "cdp stables"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862271.824130453,
+        "proposal": {
+          "id": "Data Analytics"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xF92F185AbD9E00F56cb11B0b709029633d1E37B4",
+        "vp": 12862396.379800232,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Bridge"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Yield"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0xBbE98D590d7eB99F4a236587f2441826396053d3",
+        "vp": 12670806.411111144,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377189.75148562,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835139201,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377189.75148562,
+        "proposal": {
+          "id": "Lending"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377251.569576092,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377251.569576092,
+        "proposal": {
+          "id": "Yield Aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835139201,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835144373,
+        "proposal": {
+          "id": "Options"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835139201,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377251.569576092,
+        "proposal": {
+          "id": "Perpetuals"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377251.569576092,
+        "proposal": {
+          "id": "Others"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835144373,
+        "proposal": {
+          "id": "DEX"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x79C4213a328E3B4F1D87b4953C14759399dB25E2",
+        "vp": 4377624.835139201,
+        "proposal": {
+          "id": "Trading aggregator"
+        },
+        "choice": 1
+      },
+      {
+        "voter": "0x2ef27b114917dD53f8633440A7C0328fef132e2F",
+        "vp": 14184009.071425552,
+        "proposal": {
+          "id": "Governance Aggregator"
+        },
+        "choice": 1
+      }
+    ]
+  }
+}
