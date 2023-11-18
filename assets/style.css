@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+#twitter-link {
+    text-align: center;
+    display: inline-block;
+    position: fixed;
+    right: 5px;
+}
+
+#sankey {
+    width: 100vw;
+    height: 90vh;
+}
+
+#choice-filter {
+    display: inline-block;
+}
+
+#voter-filter, #proposal-filter {
+    display: inline-block;
+    width: 45vw;
+    padding: 4px;
+}
