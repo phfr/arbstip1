@@ -102,7 +102,6 @@ app.layout = html.Div([
             {'label': 'Abstain', 'value': 3}
         ],
         value=[1, 2, 3],
-        style={'display': 'inline-block'}
     ),
     dcc.Dropdown(
         id='voter-filter',
