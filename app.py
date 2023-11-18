@@ -121,7 +121,13 @@ app.layout = html.Div([
             target="_blank"
         ), id='twitter-link'
     ),
-    dcc.Graph(id='sankey', figure=sankey_fig)
+    dcc.Graph(
+        id='sankey',
+        figure=sankey_fig,
+        config={
+            'modeBarButtonsToRemove': ['lasso', 'select']
+        }
+    )
 ]) 
 
 @app.callback(
@@ -130,6 +136,7 @@ app.layout = html.Div([
     Input('proposal-filter', 'value'),
     Input('voter-filter', 'value')
 )
+
 def update_sankey(choice_filter, proposal_filter, voter_filter):
     # Filter links by choice
     filtered_links = [link for link in links if link["color"] in [color_map[c] for c in choice_filter]]
@@ -155,6 +162,9 @@ def update_sankey(choice_filter, proposal_filter, voter_filter):
     filtered_fig.update_layout(
         margin=dict(l=3, r=3, t=30, b=3),
         autosize=True,
+        clickmode='none',
+        dragmode=False,
+        showlegend=False
  #       paper_bgcolor='rgba(0,0,0,0)',
  #       plot_bgcolor='rgba(0,0,0,0)'
     )
